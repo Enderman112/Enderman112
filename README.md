@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Enderman112
 - 👀 I’m interested in Develop
-- 🌱 I’m currently learning Kotlin and C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++
+- 🤖 I’m Vibe Coding now
 - 📫 Reach me at xuyaoshix@gmail.com
 
 <!---
