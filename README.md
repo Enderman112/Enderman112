@@ -78,8 +78,18 @@ class NickXu:
 
 <div align="center">
 
-[![Stats Overview](https://github-readme-stats-nine-sigma.vercel.app/api?username=Enderman112&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=00add8&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats-nine-sigma.vercel.app/api/top-langs/?username=Enderman112&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Stars](https://img.shields.io/github/stars/Enderman112?style=for-the-badge&logo=github&color=yellow&label=Stars)](https://github.com/Enderman112?tab=stars)
+[![Forks](https://img.shields.io/github/forks/Enderman112?style=for-the-badge&logo=github&color=blue&label=Forks)](https://github.com/Enderman112?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/Enderman112?style=for-the-badge&logo=github&color=purple&label=Followers)](https://github.com/Enderman112?tab=followers)
+[![Repos](https://img.shields.io/github/repos/Enderman112?style=for-the-badge&logo=github&color=green&label=Repos)](https://github.com/Enderman112?tab=repositories)
+[![Commits](https://img.shields.io/github/commits/Enderman112?style=for-the-badge&logo=github&color=orange&label=Commits)](https://github.com/Enderman112)
+[![Pull Requests](https://img.shields.io/github/issues-pr/Enderman112?style=for-the-badge&logo=github&color=cyan&label=PRs)](https://github.com/Enderman112/pulls)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats-nine-sigma.vercel.app/api/top-langs/?username=Enderman112&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&locale=cn)
 
 </div>
 
