@@ -76,8 +76,12 @@ class NickXu:
 
 ## 📊 GitHub 数据
 
+<div align="center">
+
 [![Stats Overview](https://github-readme-stats.vercel.app/api?username=Enderman112&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=00add8&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Enderman112&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
