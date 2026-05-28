@@ -79,7 +79,7 @@ public:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Enderman112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=00add8&locale=cn">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Enderman112&theme=tokyonight&hide_border=true&background=0d1117&stroke=00add8&ring=00add8&fire=00add8&currStreakLabel=00add8">
 
 </div>
 
