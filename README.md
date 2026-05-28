@@ -55,13 +55,6 @@ class NickXu:
       <br><br>
       <a href="https://github.com/Enderman112/Funny_ESP32">查看项目 →</a>
     </td>
-    <td align="center" width="50%">
-      <h3>🔧 KernelSU-Action</h3>
-      <p>使用 GitHub Actions 构建集成 KernelSU 的内核</p>
-      <img src="https://img.shields.io/badge/工具-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
-      <br><br>
-      <a href="https://github.com/Enderman112/KernelSU-Action">查看项目 →</a>
-    </td>
   </tr>
 </table>
 
