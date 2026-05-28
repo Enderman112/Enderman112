@@ -18,8 +18,8 @@ class NickXu:
     def __init__(self):
         self.name = "Nick Xu"
         self.role = "Developer & Maker"
-        self.languages = ["C++", "Python", "C", "Java", "Go", "GLSL"]
-        self.interests = ["嵌入式开发", "语音合成", "AI编程", "安卓内核"]
+        self.languages = ["C++", "Python", "C"]
+        self.interests = ["嵌入式开发", "AI编程", "安卓内核"]
         self.motto = "用代码创造有趣的东西"
 
     def say_hello(self):
@@ -67,8 +67,6 @@ class NickXu:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![GLSL](https://img.shields.io/badge/-GLSL-56B3B4?style=for-the-badge&logo=opengl&logoColor=white)
 
 </div>
 
@@ -78,18 +76,8 @@ class NickXu:
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/Enderman112?style=for-the-badge&logo=github)](https://github.com/Enderman112?tab=stars)
-[![Forks](https://img.shields.io/github/forks/Enderman112?style=for-the-badge&logo=github)](https://github.com/Enderman112?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/Enderman112?style=for-the-badge&logo=github)](https://github.com/Enderman112?tab=followers)
-[![Repos](https://img.shields.io/github/repos/Enderman112?style=for-the-badge&logo=github)](https://github.com/Enderman112?tab=repositories)
-[![Commits](https://img.shields.io/github/commits/Enderman112?style=for-the-badge&logo=github)](https://github.com/Enderman112)
-[![Pull Requests](https://img.shields.io/github/issues-pr/Enderman112?style=for-the-badge&logo=github)](https://github.com/Enderman112/pulls)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats-nine-sigma.vercel.app/api/top-langs/?username=Enderman112&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&locale=cn)
+<img src="https://github-readme-stats.vercel.app/api?username=Enderman112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=00add8&locale=cn" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Enderman112&theme=tokyonight&hide_border=true&background=0d1117&stroke=00add8&ring=00add8&fire=00add8&currStreakLabel=00add8" width="48%">
 
 </div>
 
@@ -100,7 +88,6 @@ class NickXu:
 - 🔨 **C++** - 深入学习现代 C++ 特性
 - 🤖 **AI 编程** - 探索 Vibe Coding 的无限可能
 - 📱 **嵌入式开发** - ESP32 / 单片机项目
-- 🧠 **语音合成** - TTS 大模型应用
 
 ---
 
