@@ -78,12 +78,12 @@ class NickXu:
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/Enderman112?style=for-the-badge&logo=github&color=yellow&label=Stars)](https://github.com/Enderman112?tab=stars)
-[![Forks](https://img.shields.io/github/forks/Enderman112?style=for-the-badge&logo=github&color=blue&label=Forks)](https://github.com/Enderman112?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/Enderman112?style=for-the-badge&logo=github&color=purple&label=Followers)](https://github.com/Enderman112?tab=followers)
-[![Repos](https://img.shields.io/github/repos/Enderman112?style=for-the-badge&logo=github&color=green&label=Repos)](https://github.com/Enderman112?tab=repositories)
-[![Commits](https://img.shields.io/github/commits/Enderman112?style=for-the-badge&logo=github&color=orange&label=Commits)](https://github.com/Enderman112)
-[![Pull Requests](https://img.shields.io/github/issues-pr/Enderman112?style=for-the-badge&logo=github&color=cyan&label=PRs)](https://github.com/Enderman112/pulls)
+[![Stars](https://img.shields.io/github/stars/Enderman112?style=for-the-badge&logo=github)](https://github.com/Enderman112?tab=stars)
+[![Forks](https://img.shields.io/github/forks/Enderman112?style=for-the-badge&logo=github)](https://github.com/Enderman112?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/Enderman112?style=for-the-badge&logo=github)](https://github.com/Enderman112?tab=followers)
+[![Repos](https://img.shields.io/github/repos/Enderman112?style=for-the-badge&logo=github)](https://github.com/Enderman112?tab=repositories)
+[![Commits](https://img.shields.io/github/commits/Enderman112?style=for-the-badge&logo=github)](https://github.com/Enderman112)
+[![Pull Requests](https://img.shields.io/github/issues-pr/Enderman112?style=for-the-badge&logo=github)](https://github.com/Enderman112/pulls)
 
 </div>
 
