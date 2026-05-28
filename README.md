@@ -13,17 +13,20 @@
 
 ## 🙋 关于我
 
-```python
-class NickXu:
-    def __init__(self):
-        self.name = "Nick Xu"
-        self.role = "Developer & Maker"
-        self.languages = ["C++", "Python", "C"]
-        self.interests = ["嵌入式开发", "AI编程", "安卓内核"]
-        self.motto = "用代码创造有趣的东西"
+```cpp
+class NickXu {
+private:
+    const char* name = "Nick Xu";
+    const char* role = "Developer & Maker";
+    std::vector<std::string> languages = {"C++", "Python", "C"};
+    std::vector<std::string> interests = {"嵌入式开发", "AI编程", "安卓内核"};
+    const char* motto = "用代码创造有趣的东西";
 
-    def say_hello(self):
-        return "欢迎来到我的 GitHub 主页！🎉"
+public:
+    std::string say_hello() {
+        return "欢迎来到我的 GitHub 主页！🎉";
+    }
+};
 ```
 
 ---
@@ -76,8 +79,7 @@ class NickXu:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Enderman112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=00add8&locale=cn" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Enderman112&theme=tokyonight&hide_border=true&background=0d1117&stroke=00add8&ring=00add8&fire=00add8&currStreakLabel=00add8" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=Enderman112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=00add8&locale=cn">
 
 </div>
 
